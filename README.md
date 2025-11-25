@@ -1,6 +1,8 @@
 # 🪐 Solar System Simulation
 
-![Simulation Screenshot](screenshot.png)
+<div align="center">
+  <img src="screenshot.png" alt="Simulation Screenshot" width="600">
+</div>
 A dynamic 2D simulation of the inner solar system built with **Python** and **Pygame**. 
 This project models orbital mechanics using **Newton's Law of Universal Gravitation** to visualize the trajectories of the Sun, Earth, Mars, Mercury, and Venus in real-time.
 
